@@ -1,0 +1,20 @@
+{
+	"tiddlers": [
+		{
+			"file": "marked.min.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/tiddlywiki/texdown/marked.min.js",
+				"module-type": "library"
+			}
+		},
+		{
+			"file": "TeXZilla.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/tiddlywiki/texdown/TeXZilla.js",
+				"module-type": "library"
+			}
+		}
+	]
+}

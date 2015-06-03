@@ -1,0 +1,5 @@
+{
+	"title": "$:/plugins/tiddlywiki/texdown",
+	"description": "Markdown plugin wrapping TeXZilla parser",
+	"author": "Lluis Pamies-Juarez"
+}
