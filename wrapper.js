@@ -26,7 +26,7 @@ var TexdownParser = function(type, text, options) {
         }
     }
     var htmlText = Marked.parser(lex);
-	this.tree = [{type: "raw", html: htmlText}];
+    this.tree = [{type: "raw", html: htmlText}];
 };
 
 exports["text/x-texdown"] = TexdownParser;
